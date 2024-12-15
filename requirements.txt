@@ -1,5 +1,5 @@
 ctransformers==0.2.5
-sentence-transformers=0.2.2
-pincone-client
+sentence-transformers==0.2.2
+pinecone-client
 langchain==0.0.225
 flask
